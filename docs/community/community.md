@@ -1,0 +1,1 @@
+RockyAI has active communities at [Rocky Linux Mattermost](https://chat.rockylinux.org) and [Rocky Linux Forums](https://forums.rockylinux.org/c/sig/ai/59)
