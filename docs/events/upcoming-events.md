@@ -1,2 +1,2 @@
 ## First SIG/AI Meet
-First SIG/AI Meets happens on April 6th between 4:30 to 5:30PM UTC. [Meeting Link](https://calendar.google.com/calendar/u/0/embed?src=c_2e1oqh6t0i6sqhja5nu9lq8lgo@group.calendar.google.com)
+First SIG/AI Meets happens on April 6th between 4:30 to 5:30PM UTC. [Meeting Link](https://calendar.google.com/calendar/u/0/embed?src=c_2e1oqh6t0i6sqhja5nu9lq8lgo@group.calendar.google.com){target=_blank}
