@@ -14,27 +14,27 @@ edit_uri: _edit/main/docs/
 nav:
     - Home: index.md
     - About: 
-        - About: about/about.md
+        - About: about.md
     - Members: 
-        - Members: members/members.md
+        - Members: members.md
     - Community: 
-        - Community: community/community.md
+        - Community: community.md
         - Partners: community/partners.md
         - Sponsors: community/sponsors.md
     - Contribute: 
-        - Contribute: contribute/contribute.md
+        - Contribute: contribute.md
         - Mattermost: contribute/mattermost.md
         - Forums: contribute/forums.md
         - Git: contribute/git.md
     - Docs: 
-        - Rocky Linux: docs/wiki.md
+        - Rocky Linux: docs.md
     - Events: 
-        - Events: events/events.md
+        - Events: events.md
         - Upcoming Events: events/upcoming-events.md
         - Highlights: events/highlights.md
         - Past Evetns: events/past-events.md
     - Contact: 
-        - Contact: contact/contact.md
+        - Contact: contact.md
 copyright: Copyright &copy; 2023 Rocky   Enterprise Software Foundation
 
 # Configuration

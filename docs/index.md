@@ -2,7 +2,7 @@
 title: SIG/AI
 ---
 # Rocky Linux SIG/AI Wiki
-The RockyAI ecosystem is built on the world's fastest-growing open-source enterprise operating system. RockyAI powers the end-to-end AI lifecycle, from development on your laptop up to Bare Metal, Dedicated Cloud, Virual Cloud, or Containerized infrastructure.
+The RockyAI ecosystem is built on the world's fastest-growing open-source enterprise operating system. RockyAI powers the end-to-end AI lifecycle, from development on your laptop up to Bare Metal, Dedicated Cloud, Virtual Cloud, or Containerized infrastructure.
 
 \#AI \#ML \#DataScience \#BigData \#Cloud \#Edge \#IoT
 
