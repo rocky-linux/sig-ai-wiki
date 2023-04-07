@@ -30,12 +30,16 @@ nav:
         - Rocky Linux: docs.md
     - Events: 
         - Events: events.md
-        - Upcoming Events: events/upcoming-events.md
-        - Highlights: events/highlights.md
-        - Past Evetns: events/past-events.md
+        - Upcoming Events: 
+            - Upcoming: events/upcoming-events.md
+        - Highlights: 
+            - Highlights: events/highlights.md
+        - Past Events: 
+            - SIG Meetings:
+                - 2023-04-06: events/meeting-notes/2023-04-06.md 
     - Contact: 
         - Contact: contact.md
-        
+
 copyright: Copyright &copy; 2023 Rocky   Enterprise Software Foundation
 
 # Configuration
