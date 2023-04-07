@@ -1,2 +1,2 @@
 # Contact US
-Reach out to us for any talks related to running/publishing your application on RockyAI Ecosystem. We are happy to talk... [SIG/AI Mattermost](https://chat.rockylinux.org/rocky-linux/channels/sig-ai)
+Reach out to us for any talks related to running/publishing your application on RockyAI Ecosystem. We are happy to talk... [SIG/AI Mattermost](https://chat.rockylinux.org/rocky-linux/channels/sig-ai){target=_blank}
