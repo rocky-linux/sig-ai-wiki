@@ -1,1 +1,3 @@
-RockyAI has active communities at [Rocky Linux Mattermost](https://chat.rockylinux.org){target=_blank} and [Rocky Linux Forums](https://forums.rockylinux.org/c/sig/ai/59){target=_blank}
+# Community
+
+SIG/AI has active communities at [Rocky Linux Mattermost](https://chat.rockylinux.org/rocky-linux/channels/sig-ai) and [Rocky Linux Forums](https://forums.rockylinux.org/c/sig/ai/59).

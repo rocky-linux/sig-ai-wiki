@@ -1,7 +1,10 @@
-Rocky Linux, like any other Linux distribution, can be used as a platform for developing and running AI applications. The operating system provides a stable and reliable environment for running various AI frameworks, such as TensorFlow, PyTorch, and Keras, which can be used for developing machine learning and deep learning models.
+# About SIG/AI
 
-Rocky Linux also supports a wide range of programming languages, including Python, which is one of the most popular languages for AI development. Many AI libraries and frameworks are available for Python, making it an excellent choice for developing AI applications.
+Rocky Linux supports all the necessary software to run an AI training/inference stack on it, including, but not limited to:
 
-Additionally, Rocky Linux supports containerization technologies such as Docker and Kubernetes, which can be used for deploying and managing AI applications and services at scale. This makes it easier to build, package, and distribute AI applications and ensures that they can be run consistently across different environments.
+* AI frameworks like TensorFlow/Keras, PyTorch, and JAX
+* Important programming languages for AI like Python, R, Julia, or Go
+* Container solutions like Docker and Apptainer
+* Container orchestrations platforms likle Kubernetes and its various distros
 
-Overall, Rocky Linux provides a solid foundation for building and running AI applications and can be a good choice for developers and organizations looking for a stable and reliable platform for their AI workloads.
+Some of these already fall under the purview of the other SIGs, so in SIG/AI, we are primarily focused for the moment on ensuring that the first of these, the AI frameworks, are compatible with Rocky Linux and can be executed on the latest versions of RL8 and RL9.
